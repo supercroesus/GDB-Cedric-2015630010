@@ -18,3 +18,5 @@ Dilanjutkan dengan "continue" untuk melanjutkan program,pada saat continue maka 
 ![virtualbox_ubuntu1_21_12_2017_23_55_42](https://user-images.githubusercontent.com/17801070/34266049-81a0e474-e6aa-11e7-8575-426024a521b1.png)
 
 Saat melakukan command "run" maka program dijalankan kembali dimulai dari breakpoint 1 karena breakpoint 2 sudah dihapus pada perintah sebelumnya. Lalu "continue" dan "info b" untuk menampilkan breakpoint kembali. Jika ingin menghapus breakpoint nomor 1 maka digunakan perintah "d 1" kemudian "info breakpoint" agar menampilkan breakpoint yang tersedia.
+
+![virtualbox_ubuntu1_22_12_2017_00_08_42](https://user-images.githubusercontent.com/17801070/34266585-5673fa50-e6ac-11e7-9405-3a706df55e39.png)
