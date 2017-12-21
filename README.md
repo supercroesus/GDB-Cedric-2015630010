@@ -8,3 +8,9 @@ Gambar di atas menunjukkan program "coba.c" sedang dicompile dengan gcc lalu den
 ![virtualbox_ubuntu1_21_12_2017_23_03_58](https://user-images.githubusercontent.com/17801070/34263822-5bfaecbc-e6a3-11e7-91ca-5f79d2eef7ef.png)
 
 "break 7" berfungsi untuk memberi patokan pada baris yang diinginkan kemudian dapat dijalankan kembali programmnya dengan "run" agar memulai pemeriksaan dari baris prgram ke 7. Berikutnya adalah "info locals" untuk mencetak variabel dan nilainya. Akan tetapi nilai yang dicetak masih belum menunjukkan nilai yang sebenarnya karena belum diexcute. Setelah memberi command "next" maka akan mencetak baris selanjutnya int = 2. Lalu info locals lagi maka nilai b akan menjadi 1 yang tadinya mempunyai nilai acak sebelum diberi perintah next. "Print a" akan mencetak nilai a dan "print b" akan mencetak nilai b.
+
+![virtualbox_ubuntu1_21_12_2017_23_32_35](https://user-images.githubusercontent.com/17801070/34265025-57d3e414-e6a7-11e7-8960-ed92fda92a65.png)
+
+Gambar di atas mulai dari command "b 11" yaitu memberikan breakpoint pada baris 11 kemudian dilanjutkan dengan "continue" untuk melanjutkan program dari baris 11 dan mencetaknya.
+"Info b" atau juga "info breakpoint" yang akan mencetak semua break point. Pada gambar menjukkan break point dicetak sebanyak 2 kali juga terdapat informasi seperti alamat kode program tersebut dan terletak pada baris ke berapa. Jika ingin menghapus breakpoint nomor 2 maka dilakukan perintah "d 2" agar breakpoint baris ke 2 bisa dihapus.
+Dilanjutkan dengan "continue" untuk melanjutkan program,pada saat continue maka "value of a is 0" akan selalu dicetak.
