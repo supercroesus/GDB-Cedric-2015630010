@@ -14,3 +14,7 @@ Gambar di atas menunjukkan program "coba.c" sedang dicompile dengan gcc lalu den
 Gambar di atas mulai dari command "b 11" yaitu memberikan breakpoint pada baris 11 kemudian dilanjutkan dengan "continue" untuk melanjutkan program dari baris 11 dan mencetaknya.
 "Info b" atau juga "info breakpoint" yang akan mencetak semua break point. Pada gambar menjukkan break point dicetak sebanyak 2 kali juga terdapat informasi seperti alamat kode program tersebut dan terletak pada baris ke berapa. Jika ingin menghapus breakpoint nomor 2 maka dilakukan perintah "d 2" agar breakpoint baris ke 2 bisa dihapus.
 Dilanjutkan dengan "continue" untuk melanjutkan program,pada saat continue maka "value of a is 0" akan selalu dicetak.
+
+![virtualbox_ubuntu1_21_12_2017_23_55_42](https://user-images.githubusercontent.com/17801070/34266049-81a0e474-e6aa-11e7-8575-426024a521b1.png)
+
+Saat melakukan command "run" maka program dijalankan kembali dimulai dari breakpoint 1 karena breakpoint 2 sudah dihapus pada perintah sebelumnya. Lalu "continue" dan "info b" untuk menampilkan breakpoint kembali. Jika ingin menghapus breakpoint nomor 1 maka digunakan perintah "d 1" kemudian "info breakpoint" agar menampilkan breakpoint yang tersedia.
