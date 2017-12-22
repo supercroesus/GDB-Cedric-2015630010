@@ -1,1 +1,4 @@
 Ini adalah contoh program parsing C "using_example" pada ubuntu dan dicompile dengan gcc. Header "csvparser" yang dibuat terdapat di dalam 1 folder dengan program parsing begitu juga input dari program ini terdapat pada file csv "example_file".
+------------------------------------------------------------------------------------------------------------------------------------------
+![virtualbox_ubuntu1_22_12_2017_21_07_52](https://user-images.githubusercontent.com/17801070/34301574-bd929486-e75f-11e7-9ba6-de44798aface.png)
+Gambar di atas adalah masukan dari program yang dibuat dalam excel dengan extensi .csv. Masukkan tersebut berupa angka
