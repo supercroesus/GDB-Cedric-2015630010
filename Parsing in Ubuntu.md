@@ -34,3 +34,4 @@ Setelah memasukin tahap gdb maka
 
 Berikut adalah hasil program yang teah disassembly
 
+![disassembly 1](https://user-images.githubusercontent.com/17801070/34304232-6dc37270-e76b-11e7-8fa7-ecb0e8fe7117.png)
