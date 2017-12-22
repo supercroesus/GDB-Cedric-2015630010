@@ -3,4 +3,6 @@ Ini adalah contoh program parsing C "using_example" pada ubuntu dan dicompile de
 
 ![csv](https://user-images.githubusercontent.com/17801070/34302895-955e42c0-e765-11e7-8ef9-f5c0224e6e37.png)
 
-Gambar di atas adalah masukan dari program yang dibuat dalam excel dengan extensi .csv. Masukkan tersebut berupa angka
+Gambar di atas "example_file" adalah masukan dari program yang dibuat dalam excel dengan extensi .csv. Masukkan tersebut berupa angka.
+
+
