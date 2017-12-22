@@ -11,3 +11,6 @@ Gambar di atas "example_file" adalah masukan dari program yang dibuat dalam exce
 
 Ini adalah program parsing yang telah dibuat sebelumnya
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
+![h1](https://user-images.githubusercontent.com/17801070/34303766-80536bae-e769-11e7-9caa-890f0f02a044.png)
