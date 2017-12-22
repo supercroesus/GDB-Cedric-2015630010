@@ -5,4 +5,8 @@ Ini adalah contoh program parsing C "using_example" pada ubuntu dan dicompile de
 
 Gambar di atas "example_file" adalah masukan dari program yang dibuat dalam excel dengan extensi .csv. Masukkan tersebut berupa angka.
 
+------------------------------------------------------------------------------------------------------------------------------------------
 
+![program c](https://user-images.githubusercontent.com/17801070/34303614-d42852f4-e768-11e7-91b1-8a3cc43baffb.png)
+
+Ini adalah program parsing yang telah dibuat sebelumnya
