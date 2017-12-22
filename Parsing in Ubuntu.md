@@ -20,5 +20,17 @@ Program Header (gambar 2)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
+![awal](https://user-images.githubusercontent.com/17801070/34303934-339a565a-e76a-11e7-951f-31ceeb81bb90.png)
 
+Ini adalah langkah awal untuk memulai assembly.
+
+1. gcc usage_example.c -I ../include ../src/csvparser.c -o usage_example adalah untuk mengcompile program utama.
+2. nano usage_example.c hanya menampilkan program yang telah dibuat dalam tab baru.
+3. gdb usage_example untuk memulai gdb program usage_example
+
+Setelah memasukin tahap gdb maka
+
+4. Ketik "disass main" untuk mendisassemble program main yang telah dibuat, maka akan muncul program yang telah disassembly
+
+Berikut adalah hasil program yang teah disassembly
 
