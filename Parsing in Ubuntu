@@ -1,1 +1,1 @@
-Ini adalah contoh program parsing C pada ubuntu dan dicompile dengan gcc. Header yang dibuat terdapat di dalam 1 folder dengan program parsing begitu juga input dari program ini terdapat pada file css
+Ini adalah contoh program parsing C "using_example" pada ubuntu dan dicompile dengan gcc. Header "csvparser" yang dibuat terdapat di dalam 1 folder dengan program parsing begitu juga input dari program ini terdapat pada file csv "example_file".
